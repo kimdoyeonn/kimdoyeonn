@@ -35,6 +35,3 @@ Here are some ideas to get you started:
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoyeonn)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
- [이력서](https://www.notion.so/kimdoyeonn-study/dec6bfacde8544da858ea4473f203804)  
- [노션 블로그](https://kimdoyeonn-study.notion.site/Study-log-389cde6b5d8b4570aea855ca92824c38)
- 
