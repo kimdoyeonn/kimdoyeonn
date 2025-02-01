@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoyeon311&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kimdoyeonn&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kimdoyeonn"
+  width="100%"
+  height="300"
+/>
+</a>
+
  ## Skills
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
